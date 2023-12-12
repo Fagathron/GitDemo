@@ -6,5 +6,7 @@ public class GitDemo {
 
         System.out.println("--------------------------------");
         System.out.println("This code belongs to develop branch");
+
+        System.out.println("5+4 = 9");
     }
 }
